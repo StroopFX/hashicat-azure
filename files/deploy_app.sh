@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  Welcome to ${PREFIX}'s app. Our mission is to deliver leading-edge patient care, research, and education. Our vision is to heal humankind, one patient at a time, by improving health, alleviating suffering and delivering acts of kindness. 
   <!-- END -->
   
   </div>
